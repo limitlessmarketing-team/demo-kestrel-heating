@@ -1,0 +1,17 @@
+/* Kestrel Heating & Air — theme tokens */
+:root {
+  --bg: #f6f4ee;
+  --bg-2: #ece9e1;
+  --surface: #fffdf8;
+  --ink: #15202b;
+  --ink-2: #4b5560;
+  --ink-3: #7c858f;
+  --line: #e1ddd3;
+  --accent: #1c4f8f;
+  --accent-ink: #ffffff;
+  --accent-soft: #e3ebf5;
+  --dark: #12213a;
+  --dark-ink: #f3f5f9;
+  --dark-muted: #a6b1c2;
+  --hero-focus: 62% 45%;
+}
